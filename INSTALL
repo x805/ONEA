@@ -1,0 +1,9 @@
+Building ONEA
+
+See doc/readme-qt.rst for instructions on building ONEA-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ONEA.
+
+See doc/build-*.txt for instructions on building onead,
+the intended-for-services, no-graphical-interface, reference
+implementation of ONEA.
