@@ -17,7 +17,7 @@ The rest is the same as Bitcoin.
  - Maturity 20 blocks
 
 For more information, as well as an immediately useable, binary version of
-the ONEA client sofware, see http://www.onea.org.
+the ONEA client sofware, see *to be updated*
 
 License
 -------
