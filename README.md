@@ -16,8 +16,10 @@ The rest is the same as Bitcoin.
  - 68 coins per block
  - Maturity 20 blocks
 
-For more information, as well as an immediately useable, binary version of
-the ONEA client sofware, see *to be updated*
+For binary version of the ONEA client sofware, see
+
+Windows: http://x805.com/onea/onea-qt-windows.zip
+Linux: http://x805.com/onea/onea-qt-linux.tar.gz
 
 License
 -------
