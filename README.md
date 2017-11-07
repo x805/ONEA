@@ -1,7 +1,7 @@
 ONEA integration/staging tree
 ================================
 
-Copyright (c) 2009-2014 Bitcoin Developers
+Copyright (c) 2009-2014 Bitcoin Developers 
 Copyright (c) 2017 ONEA Developers
 
 What is ONEA?
@@ -18,7 +18,7 @@ The rest is the same as Bitcoin.
 
 For binary version of the ONEA client sofware, see
 
-Windows: http://x805.com/onea/onea-qt-windows.zip
+Windows: http://x805.com/onea/onea-qt-windows.zip 
 Linux: http://x805.com/onea/onea-qt-linux.tar.gz
 
 License
